@@ -45,8 +45,8 @@ install.packages(c("shiny", "bs4Dash", "highcharter", "DT", "leaflet", "sf", "dp
 
 ## Usage
 ### Login Credentials
-- **Username**: `admin`
-- **Password**: `admin123`
+- **Username**: `-`
+- **Password**: `-`
 
 After logging in, you can explore data, upload new records, and interact with the dashboard.
 
@@ -60,12 +60,11 @@ After logging in, you can explore data, upload new records, and interact with th
 - Use the interactive table to filter and analyze records.
 - Download filtered data using the `Download Filtered Table` button.
 
-## Database Structure
-The application connects to an SQLite database (`/db.sqlite`) to store and retrieve information. The main table structure includes:
+## Note
+The code for this project is available, but the SQLite database (/db.sqlite) is not included in the repository.
 
-- **workers**: Stores details such as `worker_id`, `first_name`, `last_name`, `gender`, `dob`, `nationality`, `passport_number`, and `visa_type`.
-- **employment**: Tracks job placements with fields like `worker_id`, `employer`, `job_title`, `start_date`, `end_date`, `status`, and `country`.
-- **payments**: Contains records of worker payments, including `worker_id`, `amount_paid`, `payment_date`, and `currency`.
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
