@@ -45,10 +45,10 @@ install.packages(c("shiny", "bs4Dash", "highcharter", "DT", "leaflet", "sf", "dp
 
 ## Usage
 ### Login Credentials
-- **Username**: `-`
-- **Password**: `-`
-
+Not provided
 After logging in, you can explore data, upload new records, and interact with the dashboard.
+![image](https://github.com/user-attachments/assets/c9563709-f14f-440a-810b-5b3a15329448)
+
 
 ### Uploading Data
 - Navigate to the `Upload Data` tab.
@@ -62,9 +62,6 @@ After logging in, you can explore data, upload new records, and interact with th
 
 ## Note
 The code for this project is available, but the SQLite database (/db.sqlite) is not included in the repository.
-
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
