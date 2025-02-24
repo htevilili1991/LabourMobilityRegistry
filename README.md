@@ -47,18 +47,21 @@ install.packages(c("shiny", "bs4Dash", "highcharter", "DT", "leaflet", "sf", "dp
 ### Login Credentials
 Not provided
 After logging in, you can explore data, upload new records, and interact with the dashboard.
-![image](https://github.com/user-attachments/assets/c9563709-f14f-440a-810b-5b3a15329448)
+![image](https://github.com/user-attachments/assets/899a34c7-8099-47b0-b8d0-6a45733b9f6d)
+
+### Exploring Data
+- Navigate to the `Data Exploration` tab.
+- Use the interactive table to filter and analyze records.
+- Download filtered data using the `Download Filtered Table` button.
+![image](https://github.com/user-attachments/assets/f1cdcde6-5100-4327-a8d8-852294153431)
 
 
 ### Uploading Data
 - Navigate to the `Upload Data` tab.
 - Choose a CSV file matching the required format.
 - Click `Upload Data` to add records to the database.
+![image](https://github.com/user-attachments/assets/77f13598-fd84-487b-bf26-17514af999ab)
 
-### Exploring Data
-- Navigate to the `Data Exploration` tab.
-- Use the interactive table to filter and analyze records.
-- Download filtered data using the `Download Filtered Table` button.
 
 ## Note
 The code for this project is available, but the SQLite database (/db.sqlite) is not included in the repository.
