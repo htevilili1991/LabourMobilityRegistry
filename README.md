@@ -53,8 +53,7 @@ After logging in, you can explore data, upload new records, and interact with th
 - Navigate to the `Data Exploration` tab.
 - Use the interactive table to filter and analyze records.
 - Download filtered data using the `Download Filtered Table` button.
-![image](https://github.com/user-attachments/assets/f1cdcde6-5100-4327-a8d8-852294153431)
-
+![Screenshot 2025-02-24 105955](https://github.com/user-attachments/assets/7380048a-1369-43aa-87e3-1d115f2b50cb)
 
 ### Uploading Data
 - Navigate to the `Upload Data` tab.
