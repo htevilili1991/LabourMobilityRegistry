@@ -31,13 +31,16 @@ Built with R, Shiny, and `bs4Dash`, it leverages modern libraries for responsive
    - Filterable controlbar with options for Year, Direction, and Sex.
    - Interactive value boxes: Total Travelers, Average Age, and Active Programs.
    - Charts (Travel Reason and Age Distribution) update dynamically with filters.
+![Screenshot 2025-02-28 104351](https://github.com/user-attachments/assets/df7419f2-c6e3-4aeb-a808-2aae83a05263)
 
 3. **Improved Data Exploration Tab**
    - Toggleable edit mode via an "Update" button (admin-only).
    - "Submit" and "Cancel" buttons to manage changes, ensuring data integrity.
+![Screenshot 2025-02-28 104402](https://github.com/user-attachments/assets/32325bba-7323-4fe6-b0c3-d8bb53cce329)
 
 4. **Controlbar Management**
    - Tab-specific controlbar, visible only in the Overview tab for context-aware filtering.
+![image](https://github.com/user-attachments/assets/c2042c8a-9a1e-495b-b43b-bc6e4df24f1d)
 
 5. **Data Handling Improvements**
    - Year extraction from `travel_date` for filtering (format: MM/DD/YYYY).
@@ -84,6 +87,8 @@ The application is hosted on Shinyapps.io and can be accessed at:
 4. **Data Upload**
    - Download the CSV template from the Upload Data tab.
    - Ensure your CSV has the exact column order (see below).
+     ![Screenshot 2025-02-28 104415](https://github.com/user-attachments/assets/5b3d1971-93fc-4dc8-bd74-06ec55a4bdfc)
+
 ---
 
 ## Data Structure
