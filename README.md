@@ -52,7 +52,8 @@ Built with R, Shiny, and `bs4Dash`, it leverages modern libraries for responsive
 
 ### Core Features
 - Interactive dashboard with `highcharter` visualizations and `DT` data tables.
-- Data upload functionality with CSV template download.
+- Data upload functionality with CSV template download
+![Screenshot 2025-02-28 104415](https://github.com/user-attachments/assets/a100890f-4d34-4462-bf4b-fc51940caf66)
 - SQLite database integration for persistent storage.
 - Responsive design with `bs4Dash` styling based on NSDP logo colors.
 
