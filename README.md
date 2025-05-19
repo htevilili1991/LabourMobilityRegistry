@@ -1,5 +1,7 @@
 **Note:** I am currently switching the "Labour Mobility Schemes Registry" Shiny application to Laravel to better meet our project's evolving needs. The primary reasons for this transition are the need for advanced backend features, such as robust user authentication and role-based access control, which are cumbersome to implement in Shiny. Additionally, Laravel offers improved scalability to handle a growing user base, seamless integration with modern frontend frameworks like React.js for a more responsive UI, and cost-effective deployment options compared to Shiny’s hosting solutions. Finally, Laravel’s MVC architecture ensures better long-term maintainability and extensibility as we plan to add complex features and integrations.
 
+Project url: https://github.com/htevilili1991/lsr
+
 # Labour Mobility Schemes Registry
 
 **Version**: 2.0  
